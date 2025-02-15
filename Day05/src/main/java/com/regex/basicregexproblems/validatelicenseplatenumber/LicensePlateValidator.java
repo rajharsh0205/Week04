@@ -1,4 +1,4 @@
-package com.regex.basicregexproblem.validatelicenseplatenumber;
+package com.regex.basicregexproblems.validatelicenseplatenumber;
 
 import java.util.Scanner;
 

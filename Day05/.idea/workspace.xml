@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbcc5d5b-f507-4fbf-aecb-98e2f51631c0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/regex/extractionproblems/extractallcapitalizedwordsfromsentence/CapitalWordsExtractor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/regex/extractionproblems/extractallemailaddressesfromtext/ExtractEmail.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2t7kB1PP8fQ0ZsKG70mgle1NeFX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Day05",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/rajha/OneDrive/Desktop/CG_Java/Week04/Day05"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbcc5d5b-f507-4fbf-aecb-98e2f51631c0" name="Changes" comment="" />
+      <created>1739710360319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739710360319</updated>
+    </task>
+    <servers />
+  </component>
+</project>

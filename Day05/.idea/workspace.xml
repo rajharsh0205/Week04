@@ -30,6 +30,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Calculator.executor": "Run",
     "Application.ExtractEmail.executor": "Run",
     "Application.ValidateHexColorCode.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",

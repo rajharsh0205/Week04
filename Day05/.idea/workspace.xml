@@ -31,7 +31,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Calculator.executor": "Run",
+    "Application.ExceptionHandling.executor": "Run",
     "Application.ExtractEmail.executor": "Run",
+    "Application.ListManager.executor": "Run",
+    "Application.StringUtility.executor": "Run",
     "Application.ValidateHexColorCode.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbcc5d5b-f507-4fbf-aecb-98e2f51631c0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/junit/basicjunittest/Parameterized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/junit/basicjunittest/Parameterized.java" afterDir="false" />
-    </list>
+    <list default="true" id="bbcc5d5b-f507-4fbf-aecb-98e2f51631c0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

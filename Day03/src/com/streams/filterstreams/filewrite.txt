@@ -1,0 +1,7 @@
+ convert uppercase to lowercase
+problem statement:
+create a program that reads a text file and writes its contents into another file, converting all uppercase letters to lowercase.
+requirements:
+use filereader and filewriter.
+use bufferedreader and bufferedwriter for efficiency.
+handle character encoding issues.

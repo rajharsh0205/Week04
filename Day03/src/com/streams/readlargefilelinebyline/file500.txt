@@ -1,0 +1,5 @@
+Develop a Java program that efficiently reads a large text file (500MB+) line by line and prints only lines containing the word "error".
+Requirements:
+Use BufferedReader for efficient reading.
+Read line-by-line instead of loading the entire file.
+Display only lines containing "error" (case insensitive).

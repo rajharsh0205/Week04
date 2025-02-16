@@ -1,0 +1,4 @@
+Checked Exception (Compile-time Exception)
+Problem Statement:
+Create a Java program that reads a file named "data.txt". If the file does not exist, handle the IOException properly and display a user-friendly message.
+Expected Behavior:
